@@ -5,7 +5,7 @@
             <header>Real Time Chat Application</header>
             <form action="#" method="post" enctype="multipart/form-data" autocomplete="off">
                 <div class="error-text"></div>
-                <div></div>
+                <div>helklo</div>
                 <div class="name-details">
                     <div class="field input">
                         <label for="first_name">First Name</label>
