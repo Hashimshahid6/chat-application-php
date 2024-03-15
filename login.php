@@ -8,6 +8,7 @@
                 <div class="error-text"></div>
                 <div class="field input">
                     <label>Email Address</label>
+                    <label for=""></label>
                     <input type="text" name="email" placeholder="Enter Your Email" required>
                 </div>
                 <div class="input field">
