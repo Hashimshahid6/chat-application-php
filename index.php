@@ -14,7 +14,6 @@
                         <label for="last_name">Last Name</label>
                         <input type="text" name="last_name"  id="last_name" required placeholder="last Name"/>
                     </div>
-                    <div>htmlspecialchars_decode</div>
                     <div class="field input">
                         <label for="email">Email</label>
                         <input type="email" name="email"  id="email" required placeholder="Email"/>
@@ -22,6 +21,7 @@
                     <div class="field input">
                         <label for="password">Enter Password </label>
                         <input type="text" name="password"  id="password" required placeholder="Password"/>
+                        <i class="fas fa-eye"></i>
                     </div>
                     <div class="field image">
                         <label>Profile Image</label>
